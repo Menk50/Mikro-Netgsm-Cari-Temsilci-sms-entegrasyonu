@@ -20,4 +20,4 @@ insert into gecicib2b  exec Neyfer_Yapilacak_Tahsilat_Hesapla
 SQL jobs ile step delete|insert ve exec adımları çalışarak belirlenen saatte ve günde job çalışmaktadır. 
 Servis ile Berirlenen gün (DEFAULT PAZARTESI SAAT 9) ve saatte servis kendini çalıştırarak "cari personel tanıtım kartındaki" Special1 kodu dolu olan tüm personelleri listeleyerek func daki veriler ile eşleştirip bu verileri birleştirmektedir. Birleşirilen verileri "cari personel tanıtım kartındaki" personel unvan ve personel cepno bölümündeki verileri ilede sms göndermektedir.
 
-Projedenin tüm kaynak kodları PRivate olarak rep edilmiştir.
+Projedenin tüm kaynak kodları Private olarak rep edilmiştir.
